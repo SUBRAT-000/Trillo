@@ -1,0 +1,15 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "trillo booking",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.comp.css"
+  },
+  "author": "subrat",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {}
+}
